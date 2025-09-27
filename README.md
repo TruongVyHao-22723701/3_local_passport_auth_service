@@ -4,7 +4,7 @@ npm install express
 
 Mở terminal run : node app.js
 
-**-Register**
+## -Register
 
 **Register thành công:**
 
@@ -29,7 +29,7 @@ User được lưu vô mongoDB trong database passport_local_demo, collection us
 
 
 
-**LOGIN**
+## LOGIN
 
 **Login thành công**
 
@@ -50,7 +50,7 @@ Postman lưu cookie connect.sid:
 
 
 
-**PROFILE**
+## PROFILE
 
 **get/profile sau khi login**
 
@@ -64,7 +64,7 @@ Trong Postman, chọn GET và nhập URL: http://localhost:3000/auth/profile -> 
 <img width="1259" height="903" alt="image" src="https://github.com/user-attachments/assets/206df120-5d08-4b3a-9118-3dbc7a7c6df3" />
 
 
-**lOGOUT**
+## lOGOUT
 
 Logout successful: Trong Postman, chọn GET và nhập URL: http://localhost:3000/auth/logout -> Send -> Result: 
 
